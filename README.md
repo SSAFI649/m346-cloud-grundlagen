@@ -12,3 +12,5 @@ In diesem Repository erkläre ich wichtige Begriffe aus dem Bereich Cloud Comput
 - [Public Cloud](PublicCloud.md)
 - [Private Cloud](PrivateCloud.md)
 - [Hybrid Cloud](HybridCloud.md)
+
+Bearbeitet mit VSCode.
